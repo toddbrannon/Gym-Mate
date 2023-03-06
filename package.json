@@ -1,5 +1,5 @@
 {
-  "proxy": "https://gym-mate.onrender.com/",
+  "proxy": "https://gym-mate-api.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
